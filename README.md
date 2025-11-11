@@ -14,11 +14,11 @@
 ---
 
 ### > 👦 About Me (I guess)
- 💤 Mostly bored, occasionally productive.  
-> 💻 Write code. Break it. Fix it. Break it again.  
-> 🌱 Learning Full Stack Dev... slowly.  
-> 🎯 Goal: make something cool accidentally.  
-> 📫 You can email me, but I might be sleeping: [abdulrehman.dev.pk@gmail.com](mailto:abdulrehman.dev.pk@gmail.com)
+  Mostly bored, occasionally productive.  
+>  Write code. Break it. Fix it. Break it again.  
+>  Learning Full Stack Dev... slowly.  
+>  Goal: make something cool accidentally.  
+>  You can email me, but I might be sleeping: [abdulrehman.dev.pk@gmail.com](mailto:abdulrehman.dev.pk@gmail.com)
 
 ---
 
